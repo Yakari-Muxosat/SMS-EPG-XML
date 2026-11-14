@@ -1,0 +1,8 @@
+root - ERROR - T-Mobile TV Go kanály - 'token'
+root - ERROR - Magio Go kanály - 'token'
+root - ERROR - O2 TV Sport kanály - HTTPSConnectionPool(host='api.o2tv.cz', port=443): Max retries exceeded with url: /unity/api/v1/epg/depr/?forceLimit=true&limit=500&channelKey=O2%20Sport%20HD&channelKey=O2%20Fotbal%20HD&channelKey=O2%20Tenis%20HD&channelKey=O2%20Sport1%20HD&channelKey=O2%20Sport2%20HD&channelKey=O2%20Sport3%20HD&channelKey=O2%20Sport4%20HD&channelKey=O2%20Sport5%20HD&channelKey=O2%20Sport6%20HD&channelKey=O2%20Sport7%20HD&channelKey=O2%20Sport8%20HD&channelKey=Eurosport3&channelKey=Eurosport4&channelKey=Eurosport5&from=1794006000000&to=1794092340000 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001DEDA5FCDC0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+root - ERROR - SledovaniTV.cz kanály - 'channels'
+root - ERROR - SledovanieTV.sk kanály - 'channels'
+root - ERROR - TV Spiel kanály - HTTPSConnectionPool(host='live.tvspielfilm.de', port=443): Max retries exceeded with url: /static/broadcast/list/EURO/2026-11-07 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001DEDA5FC130>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+root - ERROR - OTT Play kanály - list index out of range
+root - ERROR - FTP - [WinError 10061] Nemohlo být vytvoøeno žádné pøipojení, protože cílový poèítaè je aktivnì odmítl

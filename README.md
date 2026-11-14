@@ -1,8 +1,18 @@
-# SMS-EPG-XML
-XMLTV EPG from m.tv.sms.cz
+<h2>365 EPG Generator</h2>
 
-Tohle je EPG na všechny kanály z webu TV.SMS.cz. Program je generován pomocí doplňku 365 EPG Generator v aplikaci Kodi. Soubor epg.xml je commitnutý na GitHub pomocí LFS. Aktualizace EPG probíhá jednou za den. Veškerá ID kanálů jsou se zapnutou diakritikou.
+<p>
 
-Odkaz na raw soubor: https://github.com/Yakari-Muxosat/SMS-EPG-XML/raw/refs/heads/master/epg.xml
+Python skript pro vygenerování XML souboru pro EPG (vyžaduje instalaci knihoven requests, bs4 a schedule)
 
-Provozovatel si vyhrazuje právo ukončit aktualizace XMLTV EPG souboru bez jakéhokoli udání důvodů.
+<p>
+
+<a href="https://www.xbmc-kodi.cz/showthread.php?pid=84767#pid84767">Fórum</a>
+
+<p>
+
+<b>DONATE</b>
+
+<a href="https://www.paypal.me/petrsaros">PayPal</a>
+
+<a href="https://revolut.me/petrsarka">Revolut</a> (@petrsarka)
+<p>
